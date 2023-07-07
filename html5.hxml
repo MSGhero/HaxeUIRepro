@@ -1,0 +1,11 @@
+-cp source
+-D resourcesPath=assets
+
+-D windowSize=960x540
+
+-lib heaps
+-lib haxeui-heaps
+
+-js export/js/HaxeUIRepro.js
+-main Main
+-debug

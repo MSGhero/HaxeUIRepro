@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<absolute id="thumb" style="background-color:grey">
+	<label id="thumbName" left="75" top="80" width="413" height="143" />
+</absolute>

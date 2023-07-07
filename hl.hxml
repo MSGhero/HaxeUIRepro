@@ -1,0 +1,13 @@
+-cp source
+-D resourcesPath=assets
+
+-D windowSize=960x540
+
+-lib heaps
+-lib hlsdl
+-lib haxeui-core
+-lib haxeui-heaps
+
+-hl export/hl/HaxeUIRepro.hl
+-main Main
+-debug
